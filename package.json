@@ -25,7 +25,7 @@
     "react-waypoint": "^8.0.3",
     "react-zoomy": "^1.1.1",
     "styled-components": "^1.4.6",
-    "three": "^0.92.0"
+    "three": "^0.137.0"
   },
   "scripts": {
     "start": "react-scripts start",

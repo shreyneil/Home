@@ -19,11 +19,11 @@ export default class Home extends Component {
       <Container>
        <HeroImage>
         <h1>Shreyash Sharma</h1>
-        <h2>Front-end Devloper</h2>
+        <h2>Front-end Developer</h2>
        </HeroImage>
        <WhenInView>
        {({isInView}) =>
-        <RevealP hide = {!isInView}>Hello, Welcome to my official website , Browse around , you might find something interesting.
+        <RevealP hide = {!isInView}>Hello, Welcome to my official website, Browse around, you might find something interesting.
 
         </RevealP>
       }

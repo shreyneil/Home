@@ -22,7 +22,7 @@ class AboutMe extends Component {
            <ReactPlayer
             width="100%"
             controls
-           url = "https://www.youtube.com/watch?v=ZHi6_qetibA"/> 
+           url = "https://www.youtube.com/watch?v=tb5oWeNRkNw&ab_channel=NinoProductions"/> 
            </VideoContainer>
        </Flex>
        <H1>Some other Cool Stuffs!</H1>
@@ -37,7 +37,7 @@ class AboutMe extends Component {
            <ReactPlayer
             width="90%"
             controls
-           url = "https://www.youtube.com/watch?v=vWS6Uqf-E84"/> 
+           url = "https://www.youtube.com/watch?v=Heqn2cy5emI&ab_channel=%23MindWarehouse"/> 
        
            <ReactPlayer
             width="90%"
